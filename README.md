@@ -2,7 +2,7 @@
 
 ## Steps to integrate our API
 
-1) Register your account with valid Email address from http://way2online.audienceplay.com/
+1) Register your account with valid Email address from http://register.audienceplay.com/
 
 2) Login with authentication details.
 
